@@ -1,3 +1,3 @@
 # HarunaOrg
 
-This is a sample org page.
+This is a sample org page (editing the page).
